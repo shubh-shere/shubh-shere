@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/man-doing-programmer-work-at-office-8676757-6970590.mp4?h=700">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh-shere&label=Profile%20views&color=0e75b6&style=flat" alt="shubh-shere" /> </p>
+<img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/man-doing-programmer-work-at-office-8676757-6970590.mp4?h=700">
 - 🌱 I’m currently learning **React js**
 
 <h3 align="left">Connect with me:</h3>
